@@ -1,0 +1,2 @@
+# SAM
+Self Automatic Manager
