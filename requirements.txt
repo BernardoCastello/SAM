@@ -1,0 +1,5 @@
+SpeechRecognition
+pipwin
+pyaudio
+websockets
+python-dotenv
